@@ -1,0 +1,27 @@
+{
+  "user": "BROWSERSTACK_USERNAME",
+  "key": "BROWSERSTACK_ACCESS_KEY",
+  
+    "capabilities": {
+      "build": "Gauge-behave-browserstack",
+      "name": "parallel_test",
+      "browserstack.debug": true
+    },
+  
+    "environments": [{
+      "browser": "chrome",
+      "os":"Windows",
+      "os_version":"10"
+    },{
+      "browser": "firefox",
+      "os":"Windows",
+      "os_version":"10"
+    },{
+      "browser": "safari"
+    },{
+      "browser": "internet explorer",
+      "os":"Windows",
+      "os_version":"10"
+    }]
+  }
+  

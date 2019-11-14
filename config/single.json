@@ -1,0 +1,15 @@
+{
+  "user": "BROWSERSTACK_USERNAME",
+  "key": "BROWSERSTACK_ACCESS_KEY",
+  
+    "capabilities": {
+      "build": "Gauge-behave-browserstack",
+      "name": "single_test",
+      "browserstack.debug": true
+    },
+  
+    "environments": [{
+      "browser": "chrome"
+    }]
+  }
+  

@@ -12,6 +12,7 @@
 ## Setup
 
 * Clone the repo
+* Install Gauge `https://docs.gauge.org/getting_started/installing-gauge.html?os=macos&language=python&ide=vscode`
 * Install dependencies `pip install -r requirements.txt`
 * Update `*.json` files inside the `config/` directory with your [BrowserStack Username and Access Key](https://www.browserstack.com/accounts/settings)
 

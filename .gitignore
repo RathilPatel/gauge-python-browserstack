@@ -1,0 +1,18 @@
+# Gauge - metadata dir
+.gauge
+
+# Gauge - log files dir
+logs
+node_modules
+reports
+
+# Gauge - reports dir
+reports
+
+# Gauge - python compiled files
+*.pyc
+
+# Ignore Mac system files
+.DS_store
+
+package-lock.json

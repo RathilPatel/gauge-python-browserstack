@@ -1,5 +1,6 @@
 # Gauge-BrowserStack
 [![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=RTlvSEdCeDBYdGF0N0JQU3NMMXp1eGZJbk1MVGZRQzRBTzA0WWdkcGFiMD0tLU04Y0xmdWlrdHR2dGpXOEI5WWgrRkE9PQ==--80134165301baf7c8dcca55b4fc20107e62e3a78)](https://automate.browserstack.com/public-build/RTlvSEdCeDBYdGF0N0JQU3NMMXp1eGZJbk1MVGZRQzRBTzA0WWdkcGFiMD0tLU04Y0xmdWlrdHR2dGpXOEI5WWgrRkE9PQ==--80134165301baf7c8dcca55b4fc20107e62e3a78)
+
 [Gauge](http://getgauge.io) Integration with BrowserStack
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)

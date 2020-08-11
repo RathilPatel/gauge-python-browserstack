@@ -3,6 +3,7 @@
   "key": "BROWSERSTACK_ACCESS_KEY",
   
     "capabilities": {
+      "project":"Gauge-behave-browserstack",
       "build": "Gauge-behave-browserstack",
       "name": "local_test",
       "browserstack.debug": true,
